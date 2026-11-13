@@ -2,8 +2,8 @@
 A Flame Sensor-Based Fire Detection and Automatic Alarm System using Transistor and Buzzer.
 ## Project Information
 
-- **Student Name:** Adarsh Pandey
-- **Roll Number:** YOUR ROLL NUMBER
+- **Student Name:** Ayush Pandey
+- **Roll Number:**202510101150129
 - **Course:** B.Tech CSE
 - **Specialization:** Data Science and Artificial Intelligence
 - **Subject:** Digital Electronics
